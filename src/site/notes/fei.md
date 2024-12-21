@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fei/","dgPassFrontmatter":true,"noteIcon":"1","created":"2024-10-24T02:36:58.073+08:00","updated":"2024-10-24T17:46:01.142+08:00"}
+{"dg-publish":true,"permalink":"/fei/","dgPassFrontmatter":true,"created":"2024-10-24T02:36:58.073+08:00","updated":"2024-10-24T17:46:01.142+08:00"}
 ---
 
 ![[记录 - 飞赞 (2024_10_24 02_41_05).html]]
