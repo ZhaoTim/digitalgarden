@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/nihao/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"1","created":"2023-09-29T22:57:39.467+08:00","updated":"2024-10-07T18:30:51.681+08:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/nihao/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-09-29T22:57:39.467+08:00","updated":"2024-12-21T18:55:47.396+08:00"}
 ---
 
+- 你可能不需要 Effect
+- 响应式 Effect 的生命周期
+- 将事件从 Effect 中分开
+
+
+> 
 > 今天和别人聊天时，产生一段话：有童年创伤的人，长大以后，他的人格受到影响从而被扭曲。如果他幸运地与创伤*和解*，那么他的人格会立刻被修复吗？我认为不会，这种创伤的影响实实在在地刻在了他存在的每一天，又怎么会修复呢？
 
 ![Pasted image 20241007183050.png](/img/user/Pasted%20image%2020241007183050.png)
