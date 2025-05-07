@@ -1,3 +1,15 @@
+@font-face {
+    font-family: 'Dank Mono'; /* 給你的字體起一個易於識別的名字 */
+    src: url('https://gcore.jsdelivr.net/gh/ZhaoTim/issue@main/dank mono.ttf') format('truetype'); /* 指定字體文件的路徑和格式 */
+    /* 你還可以添加其他字體格式以提高兼容性，例如 woff, woff2, otf */
+    /* src: url('你的字體文件路徑.woff2') format('woff2'),
+           url('你的字體文件路徑.woff') format('woff'),
+           url('你的字體文件路徑.otf') format('opentype'),
+           url('你的字體文件路徑.ttf') format('truetype'); */
+    font-weight: normal; /* 可選：設置字體粗細，例如 normal, bold, 100-900 */
+    font-style: normal;  /* 可選：設置字體樣式，例如 normal, italic */
+}
+
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -11,7 +23,7 @@ body {
     //   color: black;
     //  }
     * {
-        font-family:'FZFWMaDiSiTiS Light' !important;
+        font-family:'Dank Mono', 'FZFWMaDiSiTiS Light' !important;
     }
 
     --line-height-normal: 1.9;
