@@ -23,13 +23,14 @@ body {
     //   color: black;
     //  }
     * {
-        font-family:'Dank Mono', 'FZFW ZhuZi A YuanS R' !important;
+        font-family:'Dank Mono', 'TsangerZhiXinTi' !important;
+        letter-spacing: 2px;
     }
 
     --line-height-normal: 1.9;
 
     .content {
-        font-size: 23px;
+        font-size: 25px;
     }
 
     code {
